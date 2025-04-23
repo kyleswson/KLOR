@@ -3674,6 +3674,12 @@
 		(uuid "dc13077d-6c32-446b-9cd7-fdd17872566c")
 	)
 	(junction
+		(at 272.288 39.3581)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e2ed882e-c0bb-4964-b662-37eb849c934c")
+	)
+	(junction
 		(at 239.268 58.166)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3690,6 +3696,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f7f5aba6-7437-44f4-9cec-e45c4f0e5641")
+	)
+	(junction
+		(at 254.508 44.45)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f946f931-12ec-4117-87ce-e1cef2481390")
 	)
 	(junction
 		(at 218.948 53.086)
@@ -3753,16 +3765,6 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 180.594) (xy 28.702 180.594)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0df2cae9-277d-4ea9-b91a-2e450671e765")
-	)
-	(wire
-		(pts
 			(xy 185.928 86.106) (xy 203.708 86.106)
 		)
 		(stroke
@@ -3790,6 +3792,16 @@
 			(type default)
 		)
 		(uuid "114d03ee-5fb5-4e9e-95dc-f1fabe16b393")
+	)
+	(wire
+		(pts
+			(xy 46.99 184.15) (xy 46.99 182.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "14885b89-576b-49e1-a31d-572796863aea")
 	)
 	(wire
 		(pts
@@ -3933,6 +3945,16 @@
 	)
 	(wire
 		(pts
+			(xy 27.94 176.53) (xy 46.99 176.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3997f99e-80b6-4c14-8ff7-0739e291fdbc")
+	)
+	(wire
+		(pts
 			(xy 126.746 33.274) (xy 126.746 39.624)
 		)
 		(stroke
@@ -3950,6 +3972,16 @@
 			(type dash)
 		)
 		(uuid "3a68360b-4fcc-42d2-91ba-b69d638ee5d2")
+	)
+	(wire
+		(pts
+			(xy 272.288 39.3581) (xy 272.288 53.086)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3a83df29-419d-4df6-b50c-3499cc966b3a")
 	)
 	(wire
 		(pts
@@ -4000,6 +4032,16 @@
 			(type dash)
 		)
 		(uuid "4413e955-47e1-402b-9f0f-52e83696c944")
+	)
+	(wire
+		(pts
+			(xy 33.02 184.15) (xy 46.99 184.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4496764b-5c55-4a95-bf04-9f487da18767")
 	)
 	(wire
 		(pts
@@ -4223,6 +4265,16 @@
 	)
 	(wire
 		(pts
+			(xy 254.508 44.45) (xy 256.54 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e86db98-f62c-4996-a754-7f82c376a640")
+	)
+	(wire
+		(pts
 			(xy 113.792 136.398) (xy 116.586 136.398)
 		)
 		(stroke
@@ -4230,6 +4282,16 @@
 			(type default)
 		)
 		(uuid "6f8256e6-5dfc-4cdc-9d77-818253414951")
+	)
+	(wire
+		(pts
+			(xy 33.02 180.34) (xy 46.99 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7306ce6b-522d-48a2-a555-8db924f82d3f")
 	)
 	(wire
 		(pts
@@ -4270,6 +4332,16 @@
 			(type default)
 		)
 		(uuid "7b37c404-3c01-4e2f-affd-66650b9593ee")
+	)
+	(wire
+		(pts
+			(xy 19.05 180.34) (xy 27.94 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7eef4385-797f-407e-a1d9-89c02771d08d")
 	)
 	(polyline
 		(pts
@@ -4410,6 +4482,16 @@
 			(type default)
 		)
 		(uuid "95021eef-dfcb-4c80-a633-e1b0a65bfeee")
+	)
+	(wire
+		(pts
+			(xy 46.99 176.53) (xy 46.99 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "969b6728-61fc-468f-a626-779f1b16ed30")
 	)
 	(wire
 		(pts
@@ -4583,7 +4665,7 @@
 	)
 	(wire
 		(pts
-			(xy 254.508 39.116) (xy 254.508 53.086)
+			(xy 254.508 39.116) (xy 254.508 44.45)
 		)
 		(stroke
 			(width 0)
@@ -4733,6 +4815,16 @@
 	)
 	(wire
 		(pts
+			(xy 272.288 39.3581) (xy 271.78 39.3581)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cf398c8c-4df5-412c-90fb-412da994a065")
+	)
+	(wire
+		(pts
 			(xy 239.268 72.136) (xy 257.048 72.136)
 		)
 		(stroke
@@ -4863,6 +4955,16 @@
 	)
 	(wire
 		(pts
+			(xy 271.78 39.3581) (xy 271.78 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "df4e025e-9bc3-49d9-8333-aa5dc6d30ed5")
+	)
+	(wire
+		(pts
 			(xy 122.682 152.908) (xy 114.808 152.908)
 		)
 		(stroke
@@ -4893,7 +4995,7 @@
 	)
 	(wire
 		(pts
-			(xy 28.702 180.594) (xy 28.702 182.626)
+			(xy 19.05 180.34) (xy 19.05 185.42)
 		)
 		(stroke
 			(width 0)
@@ -4923,7 +5025,17 @@
 	)
 	(wire
 		(pts
-			(xy 272.288 30.734) (xy 272.288 53.086)
+			(xy 254.508 44.45) (xy 254.508 53.086)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e7c91061-9f19-4702-8ab7-7dc8d1f8fadd")
+	)
+	(wire
+		(pts
+			(xy 272.288 30.734) (xy 272.288 39.3581)
 		)
 		(stroke
 			(width 0)
@@ -5116,7 +5228,7 @@
 	)
 	(text "ENCODER"
 		(exclude_from_sim no)
-		(at 23.114 170.942 0)
+		(at 30.734 170.688 0)
 		(effects
 			(font
 				(size 2 2)
@@ -5452,6 +5564,28 @@
 			)
 		)
 	)
+	(global_label "ENC_L"
+		(shape input)
+		(at 44.45 180.34 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "49f79070-7dea-4a23-95dc-432b338287ec")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 44.45 171.6096 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "SDA"
 		(shape input)
 		(at 159.512 180.086 0)
@@ -5476,7 +5610,7 @@
 	)
 	(global_label "ENCA"
 		(shape input)
-		(at 39.37 178.054 180)
+		(at 27.94 176.53 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5486,7 +5620,7 @@
 		)
 		(uuid "4d5b8246-8e3b-4e9d-8b9e-2e1048aabc51")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 32.1188 177.9746 0)
+			(at 20.6888 176.4506 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5848,6 +5982,28 @@
 			)
 		)
 	)
+	(global_label "ENC_R"
+		(shape input)
+		(at 39.37 184.15 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a643f63e-19b2-4930-9f84-adab8f6f30f2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 39.37 193.1223 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "SCL"
 		(shape input)
 		(at 159.512 185.928 0)
@@ -5960,7 +6116,7 @@
 	)
 	(global_label "col5"
 		(shape input)
-		(at 54.61 178.054 0)
+		(at 62.23 177.8 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5970,7 +6126,7 @@
 		)
 		(uuid "c1c508fe-e2c2-48c3-967a-7e86309ae34f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 61.7075 178.054 0)
+			(at 69.3275 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6004,7 +6160,7 @@
 	)
 	(global_label "ENCB"
 		(shape input)
-		(at 39.37 183.134 180)
+		(at 27.94 184.15 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6014,7 +6170,7 @@
 		)
 		(uuid "c731eb1c-2052-461e-951e-8e323df887db")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 31.9374 183.0546 0)
+			(at 20.5074 184.0706 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6070,7 +6226,7 @@
 	)
 	(global_label "SW18B"
 		(shape input)
-		(at 54.61 183.134 0)
+		(at 62.23 182.88 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6080,7 +6236,7 @@
 		)
 		(uuid "d0a77146-1b33-4a68-888d-a66911a48c48")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 63.3731 183.0546 0)
+			(at 70.9931 182.8006 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6241,6 +6397,86 @@
 				)
 				(justify right)
 				(hide yes)
+			)
+		)
+	)
+	(symbol
+		(lib_id "KLORlib:SW_PUSH-MX_W_LED")
+		(at 264.16 39.37 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "01d2bf85-052d-436c-baaa-5ff1b94d467a")
+		(property "Reference" "SW23"
+			(at 264.16 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_PUSH-MX_W_LED"
+			(at 264.16 35.56 0)
+			(effects
+				(font
+					(size 0.635 0.635)
+				)
+			)
+		)
+		(property "Footprint" "keyswitches.pretty-master:1U_cherry_mx_kailh_choc_hotswap_combo"
+			(at 264.16 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 264.16 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 264.16 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "5"
+			(uuid "a11f94af-9db3-4698-90e6-1e16f796c86c")
+		)
+		(pin "6"
+			(uuid "440ca3d9-11fd-4004-bedb-8b70111cbc4a")
+		)
+		(pin "1"
+			(uuid "f73ff979-15f3-40ef-89eb-ff97494f432a")
+		)
+		(pin "2"
+			(uuid "9b821ef0-f04e-4f6a-ac05-b7fc793df0ba")
+		)
+		(pin "3"
+			(uuid "eec076b9-fe4d-4869-b8c3-1d7d47830c01")
+		)
+		(pin "4"
+			(uuid "5d3da341-c085-4c8c-9fda-93a66ea5a3b8")
+		)
+		(instances
+			(project "klor1_3_kyle.kicad_pro"
+				(path "/3934cdea-42c8-4ab1-b1be-2c4978ab08ae"
+					(reference "SW23")
+					(unit 1)
+				)
 			)
 		)
 	)
@@ -6506,6 +6742,74 @@
 			(project ""
 				(path "/3934cdea-42c8-4ab1-b1be-2c4978ab08ae"
 					(reference "MH5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "KLORlib:Device_Jumper_NO_Small")
+		(at 30.48 180.34 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "03c877d6-3801-4bae-9c91-b4457937bf2d")
+		(property "Reference" "JP10"
+			(at 30.48 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Device_Jumper_NO_Small"
+			(at 30.48 177.292 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "KLOR:Jumper"
+			(at 30.48 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 30.48 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 30.48 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "73f81c55-e258-4934-99a0-00d5e5222a5a")
+		)
+		(pin "2"
+			(uuid "f8c4b6bc-ee25-4259-80b5-1360812f09f1")
+		)
+		(instances
+			(project "klor1_3_kyle.kicad_pro"
+				(path "/3934cdea-42c8-4ab1-b1be-2c4978ab08ae"
+					(reference "JP10")
 					(unit 1)
 				)
 			)
@@ -8526,16 +8830,15 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 28.702 182.626 0)
+		(at 19.05 185.42 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "426e4f2d-e60e-4d2f-8670-39594c203c45")
 		(property "Reference" "#PWR020"
-			(at 28.702 188.976 0)
+			(at 19.05 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8544,7 +8847,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 28.702 187.96 0)
+			(at 19.05 190.754 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8552,7 +8855,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 28.702 182.626 0)
+			(at 19.05 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8561,7 +8864,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 28.702 182.626 0)
+			(at 19.05 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8570,7 +8873,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 28.702 182.626 0)
+			(at 19.05 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9087,7 +9390,7 @@
 	)
 	(symbol
 		(lib_id "Device:RotaryEncoder_Switch")
-		(at 46.99 180.594 0)
+		(at 54.61 180.34 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9096,7 +9399,7 @@
 		(fields_autoplaced yes)
 		(uuid "5317df27-5ceb-4d26-ba68-2277da0bb84e")
 		(property "Reference" "SW18"
-			(at 46.99 170.434 0)
+			(at 54.61 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9104,7 +9407,7 @@
 			)
 		)
 		(property "Value" "RotaryEncoder_Switch"
-			(at 46.99 172.974 0)
+			(at 54.61 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9112,7 +9415,7 @@
 			)
 		)
 		(property "Footprint" "keyswitches.pretty-master:1U_cherry_mx_kailh_choc_hotswap_combo"
-			(at 43.18 176.53 0)
+			(at 50.8 176.276 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9121,7 +9424,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 46.99 173.99 0)
+			(at 54.61 173.736 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9130,7 +9433,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 46.99 180.594 0)
+			(at 54.61 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10273,6 +10576,77 @@
 			(project ""
 				(path "/3934cdea-42c8-4ab1-b1be-2c4978ab08ae"
 					(reference "SW21")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_Small")
+		(at 256.54 41.91 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7d4eff31-8db1-4399-a4ad-e69a0337259d")
+		(property "Reference" "D23"
+			(at 258.318 41.9099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D_Small"
+			(at 258.318 43.1799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "kbd:1N4148_SMD_both_side"
+			(at 256.54 41.91 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 256.54 41.91 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 256.54 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f285cfe3-39a7-4de8-a510-4631636c7709")
+		)
+		(pin "2"
+			(uuid "7528b565-4ab1-439c-a84e-a07f14aed4a0")
+		)
+		(instances
+			(project "klor1_3_kyle.kicad_pro"
+				(path "/3934cdea-42c8-4ab1-b1be-2c4978ab08ae"
+					(reference "D23")
 					(unit 1)
 				)
 			)
@@ -12971,6 +13345,74 @@
 			(project ""
 				(path "/3934cdea-42c8-4ab1-b1be-2c4978ab08ae"
 					(reference "JP20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "KLORlib:Device_Jumper_NO_Small")
+		(at 30.48 184.15 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "eee28693-beba-4c68-891f-bd9121808d31")
+		(property "Reference" "JP11"
+			(at 30.48 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Device_Jumper_NO_Small"
+			(at 30.48 181.102 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "KLOR:Jumper"
+			(at 30.48 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 30.48 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 30.48 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "63529932-9f03-49fc-9967-902194ebb172")
+		)
+		(pin "2"
+			(uuid "b227d6d1-5d8e-44e9-88e9-343d9c6e8986")
+		)
+		(instances
+			(project "klor1_3_kyle.kicad_pro"
+				(path "/3934cdea-42c8-4ab1-b1be-2c4978ab08ae"
+					(reference "JP11")
 					(unit 1)
 				)
 			)
